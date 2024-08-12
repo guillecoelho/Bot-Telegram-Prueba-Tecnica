@@ -26,6 +26,10 @@ OPENAI_API_KEY="token"
 
 Una vez que la consola nos imprima `Servidor de bot iniciado` ya estaremos listos para poder usar el bot en Telegram.
 
+## Funcionalidad Extra:
+
+- La realidad es que me encuentro más de una vez en la situación de recibir mensajes en audios y no poder escucharlos por lo que poder transcribirlos de forma precisa con un modelo como el de Whisper es un salvavidas. A su vez de vez en cuando recibo audios muy largos los cuales si estoy corto de tiempo tener la posibilidad de ver un breve resumen de su contenido es útil para saber si es una urgencia y debo atenderlo o puedo dejarlo para luego.
+
 ## Extras:
 
 - El archivo clima.json contiente recomendaciones correspondientes a los diferentes climas posibles que pueden haber, en caso de querer cambiarlas simplemente modificar este archivo.
